@@ -1,0 +1,180 @@
+{
+  "/Users/wuyachong/Desktop/fight/fight/assets/folder.meta": {
+    "time": 1624784923838.5166
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource.meta": {
+    "time": 1624784923838.5166
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource": {
+    "time": 1624976756000,
+    "uuid": "b91a2049-fd93-4049-8d4d-38e758be44a4",
+    "missing": false
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/scripts.meta": {
+    "time": 1624784956634.9978
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/scripts": {
+    "time": 1625407154493.2065,
+    "uuid": "b71748a3-9f0e-4565-91a6-aa6a9715c343",
+    "missing": false
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/sences.meta": {
+    "time": 1624785019330.2256
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/sences": {
+    "time": 1624982480000,
+    "uuid": "55f39c12-dc34-4d09-b27f-9638bb14934f",
+    "missing": false
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource/img.meta": {
+    "time": 1624785028917.941
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource/img": {
+    "time": 1624976756000,
+    "uuid": "fa585b20-08b7-4a12-b266-5a08c801ff6e",
+    "missing": false
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource/img/sence.meta": {
+    "time": 1624785045365.5361
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource/img/sence": {
+    "time": 1624976756000,
+    "uuid": "fc3c4784-5cab-47dd-b8a4-4c937c6124a1",
+    "missing": false
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource/img/icon.meta": {
+    "time": 1624785055541.7632
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource/img/icon": {
+    "time": 1624965557000,
+    "uuid": "0248bf33-27d1-4aa0-9ab4-55973a4835fe",
+    "missing": false
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource/sound.meta": {
+    "time": 1624785070981.7952
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource/sound": {
+    "time": 1624785077000,
+    "uuid": "8b0e123b-4652-4d51-9acc-8c9300fe48d0",
+    "missing": false
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource/img/sence/wallhaven-1j5dd1_960x640.png.meta": {
+    "time": 1624785280578.6826
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/sences/Game.scene.meta": {
+    "time": 1624785103373.172
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/sences/Game.scene": {
+    "time": 1624982168651.52,
+    "uuid": "cf30386f-111f-4f5a-94c5-4c5a31bd4cdd",
+    "missing": false
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/sences/wallhaven-1j5dd1_960x640.png.meta": {
+    "time": 1624785079429.4216
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource/img/sence/wallhaven-dgo6rm_960x640.png.meta": {
+    "time": 1624785745312.3213
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource/img/sence/wallhaven-dgo6rm_960x640.png": {
+    "time": 1624785712702.8628,
+    "uuid": "5eb0ecfe-a125-4605-add7-b0068fd32bd0",
+    "missing": false
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource/img/sence/《彩虹岛》游戏角色+地图+音乐音效+UI-V2.0版资源-5_爱给网_aigei_com.PNG.meta": {
+    "time": 1624785801651.7175
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource/img/sence/《彩虹岛》游戏角色+地图+音乐音效+UI-V2.0版资源-5_爱给网_aigei_com.PNG": {
+    "time": 1624785784222.8257,
+    "uuid": "9505ea3e-2daf-4e8c-bc7d-c2d46ca237bf",
+    "missing": false
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource/img/sence/《彩虹岛》游戏角色+地图+音乐音效+UI-V2.0版资源-s_爱给网_aigei_com.PNG.meta": {
+    "time": 1624786245227.5884
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource/img/sence/《彩虹岛》游戏角色+地图+音乐音效+UI-V2.0版资源-s_爱给网_aigei_com.PNG": {
+    "time": 1624785956841.2383,
+    "uuid": "e9d83fce-1cf1-4f2e-ae3e-e4f384b07044",
+    "missing": false
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/scripts/layout.ts.meta": {
+    "time": 1624787490911.9968
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/scripts/layout.ts": {
+    "time": 1624787490908.8176,
+    "uuid": "71098ebc-61c0-43dc-91dc-e3bccae11fb4",
+    "missing": true
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/scripts/Layout.ts.meta": {
+    "time": 1624790547529.471
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/prefab.meta": {
+    "time": 1624790557542.905
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/prefab": {
+    "time": 1624982288000,
+    "uuid": "51723218-72e8-470c-8f65-5263c87ec3ab",
+    "missing": false
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/prefab/cloud.prefab.meta": {
+    "time": 1624981855892.764
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/scripts/game.ts.meta": {
+    "time": 1624790547529.471
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/scripts/active.ts.meta": {
+    "time": 1624967747600.0264
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource/img/icon/WX20210627-172052-removebg-preview.png.meta": {
+    "time": 1624894367972.563
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource/img/icon/WX20210627-172052-removebg-preview.png": {
+    "time": 1624894354364.034,
+    "uuid": "ca674ee6-0043-4d1f-b72f-1fcbb970f702",
+    "missing": false
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/scripts/moveBroad.ts.meta": {
+    "time": 1624967739412.124
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/scripts/moveBroad.ts": {
+    "time": 1624977612639.0642,
+    "uuid": "b903ee8d-1af4-4635-966f-056236cd8827",
+    "missing": false
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/scripts/active.ts": {
+    "time": 1624982058735.2034,
+    "uuid": "0acc98c2-182f-4d8f-86f1-63a83a3b4cff",
+    "missing": false
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/scripts/cloud.ts.meta": {
+    "time": 1624967763727.636
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/scripts/cloud.ts": {
+    "time": 1624981044479.3386,
+    "uuid": "0f6529a2-55bf-41fe-bfb7-52fc72a60786",
+    "missing": false
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource/img/sence/《彩虹岛》游戏角色+地图+音乐音效+UI-V2.0版资源-0_爱给网_aigei_com (1).PNG.meta": {
+    "time": 1624975166620.0442
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/resource/img/sence/《彩虹岛》游戏角色+地图+音乐音效+UI-V2.0版资源-0_爱给网_aigei_com (1).PNG": {
+    "time": 1624975137572.1975,
+    "uuid": "745a9919-8cc4-4d05-a4cf-a25057efb82e",
+    "missing": false
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/prefab/cloud.prefab": {
+    "time": 1624981855891.1533,
+    "uuid": "e9c880fd-7dbd-4756-b436-442bbef2fb48",
+    "missing": false
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/scripts/typescript.ts.meta": {
+    "time": 1625406893478.458
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/scripts/props.ts.meta": {
+    "time": 1625407154494.9407
+  },
+  "/Users/wuyachong/Desktop/fight/fight/assets/scripts/props.ts": {
+    "time": 1625407154492.2139,
+    "uuid": "01f2aeba-2787-44ff-a9f5-1547bebe1d0b",
+    "missing": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "__version__": "1.2.8",
+  "common": {
+    "sourceMaps": false,
+    "outputName": "f",
+    "name": "fightinggold"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1624982364808": {
+        "id": "1624982364808",
+        "progress": 1,
+        "state": "success",
+        "message": "2021-6-30 00:01 Build success in 102323 ms!",
+        "options": {
+          "packages": {
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 1280,
+                "designHeight": 960
+              },
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "25b185",
+              "services": []
+            }
+          },
+          "name": "fightinggold",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "cf30386f-111f-4f5a-94c5-4c5a31bd4cdd",
+          "scenes": [
+            {
+              "url": "db://assets/sences/Game.scene",
+              "uuid": "cf30386f-111f-4f5a-94c5-4c5a31bd4cdd"
+            }
+          ],
+          "outputName": "web-desktop"
+        },
+        "time": "2021-6-29 23:59",
+        "dirty": false
+      }
+    }
+  }
+}

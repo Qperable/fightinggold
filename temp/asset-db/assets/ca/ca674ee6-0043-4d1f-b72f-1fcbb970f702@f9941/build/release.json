@@ -1,0 +1,54 @@
+[
+    1,
+    [
+        "caZ07mAENNH7cvH8u5cPcC@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "WX20210627-172052-removebg-preview",
+            "rect": {
+                "x": 54,
+                "y": 32,
+                "width": 317,
+                "height": 318
+            },
+            "offset": {
+                "x": 23,
+                "y": -8.5
+            },
+            "originalSize": {
+                "width": 379,
+                "height": 365
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "texture": "ca674ee6-0043-4d1f-b72f-1fcbb970f702@6c48a",
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

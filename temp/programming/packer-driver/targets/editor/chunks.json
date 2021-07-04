@@ -1,0 +1,77 @@
+{
+  "assets/scripts/layout.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/layout.js",
+    "mTimestamp": 1624800254391
+  },
+  "assets/scripts/Layout.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/Layout.js",
+    "mTimestamp": 1624891914523
+  },
+  "assets/scripts/game.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/game.js",
+    "mTimestamp": 1624893116401
+  },
+  "assets/scripts/moveBroad.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/moveBroad.js",
+    "mTimestamp": 1624977616029
+  },
+  "assets/scripts/cloud.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/cloud.js",
+    "mTimestamp": 1624981047637
+  },
+  "assets/scripts/active.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/active.js",
+    "mTimestamp": 1624982059591
+  },
+  "quick-pack:/cce/internal/x/cc.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/x/cc.js",
+    "mTimestamp": 1625406859895,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/cc"
+  },
+  "assets/scripts/typescript.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/typescript.js",
+    "mTimestamp": 1625406893568
+  },
+  "quick-pack:/cce/internal/x/prerequisite-imports.js": {
+    "imports": {
+      "file:///Users/wuyachong/Desktop/fight/fight/assets/scripts/cloud.ts": "assets/scripts/cloud.js",
+      "file:///Users/wuyachong/Desktop/fight/fight/assets/scripts/moveBroad.ts": "assets/scripts/moveBroad.js",
+      "file:///Users/wuyachong/Desktop/fight/fight/assets/scripts/active.ts": "assets/scripts/active.js",
+      "file:///Users/wuyachong/Desktop/fight/fight/assets/scripts/props.ts": "assets/scripts/props.js"
+    },
+    "physicalLocation": "cce/internal/x/prerequisite-imports.js",
+    "mTimestamp": 1625407154520,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/prerequisite-imports"
+  },
+  "assets/scripts/props.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/props.js",
+    "mTimestamp": 1625407154549
+  }
+}

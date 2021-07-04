@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "WX20210627-172052-removebg-preview",
+    "atlas": "",
+    "rect": {
+      "x": 54,
+      "y": 32,
+      "width": 317,
+      "height": 318
+    },
+    "offset": {
+      "x": 23,
+      "y": -8.5
+    },
+    "originalSize": {
+      "width": 379,
+      "height": 365
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "ca674ee6-0043-4d1f-b72f-1fcbb970f702@6c48a",
+    "packable": true
+  }
+}

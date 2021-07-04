@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wallhaven-dgo6rm_960x640",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 960,
+      "height": 640
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 960,
+      "height": 640
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "5eb0ecfe-a125-4605-add7-b0068fd32bd0@6c48a",
+    "packable": true
+  }
+}

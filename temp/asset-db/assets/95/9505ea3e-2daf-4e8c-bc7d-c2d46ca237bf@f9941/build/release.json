@@ -1,0 +1,54 @@
+[
+    1,
+    [
+        "95Beo+La9OjLx9wtRsoje/@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "《彩虹岛》游戏角色+地图+音乐音效+UI-V2.0版资源-5_爱给网_aigei_com",
+            "rect": {
+                "x": 8,
+                "y": 14,
+                "width": 239,
+                "height": 99
+            },
+            "offset": {
+                "x": -0.5,
+                "y": 0.5
+            },
+            "originalSize": {
+                "width": 256,
+                "height": 128
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "texture": "9505ea3e-2daf-4e8c-bc7d-c2d46ca237bf@6c48a",
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

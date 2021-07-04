@@ -1,0 +1,74 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "9505ea3e-2daf-4e8c-bc7d-c2d46ca237bf",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "9505ea3e-2daf-4e8c-bc7d-c2d46ca237bf@6c48a",
+      "displayName": "《彩虹岛》游戏角色+地图+音乐音效+UI-V2.0版资源-5_爱给网_aigei_com",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9505ea3e-2daf-4e8c-bc7d-c2d46ca237bf"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "9505ea3e-2daf-4e8c-bc7d-c2d46ca237bf@f9941",
+      "displayName": "《彩虹岛》游戏角色+地图+音乐音效+UI-V2.0版资源-5_爱给网_aigei_com",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -0.5,
+        "offsetY": 0.5,
+        "trimX": 8,
+        "trimY": 14,
+        "width": 239,
+        "height": 99,
+        "rawWidth": 256,
+        "rawHeight": 128,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9505ea3e-2daf-4e8c-bc7d-c2d46ca237bf@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "sprite-frame",
+    "redirect": "9505ea3e-2daf-4e8c-bc7d-c2d46ca237bf@f9941"
+  }
+}
